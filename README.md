@@ -25,7 +25,8 @@ For all those of us who work professionally, carbon makes life a lot easier in m
 Today, the market has a lot of multi-managing applications, but they are expensive. As we care for our teenage friends and our hard-working professionals, we have made it free. You can get nearly all of the features for `NO COST`. Another thing that makes carbon different and special for others is your privacy and security! When you enter your workplace, you're completely safe from outsiders and malicious people. Carbon does not play with your private data or let others access it.
 
 ## What am I getting when I install Carbon?
-Carbon provides you with 50GB of Cloud storage so that you don't have to struggle with the problem of disk space. Once you create your account, you will receive your Cloud storage, which you can expand as you wish. We offer a custom theme section so that you will be comfortable with the vibe. Carbon never steals or saves your data for self-use so you're protected all the way along with End-To-End Encryption. Carbon doesn't take a lot of disk space because it's a cloud-based program, so your RAM will not burn out in flames if you want to multitask with it. In consideration of the situation of our friends [you guys!] we have kept it as clean as possible so that you can download and run it directly without having to watch any funny tutorials.
+Carbon provides you with 50GB of Cloud storage so that you don't have to struggle with the problem of disk space. Once you create your account, you will receive your Cloud storage, which you can expand as you wish. We offer a custom theme section so that you will be comfortable with the vibe. Carbon never steals or saves your data for self-use so you're protected all the way along with End-To-End Encryption. 
+bon doesn't take a lot of disk space because it's a cloud-based program, so your RAM will not burn out in flames if you want to multitask with it. In consideration of the situation of our friends [you guys!] we have kept it as clean as possible so that you can download and run it directly without having to watch any funny tutorials.
 ### Features list:
 | Feature | Description |
 | --- | --- |
@@ -39,4 +40,7 @@ Carbon provides you with 50GB of Cloud storage so that you don't have to struggl
 ### And many more..!
 
 ## How much I have to pay to get carbon?
-Installing Carbon is totally free of charge, with no hidden charges, Nothing! You can start with a basic plan to get started and later on upgrade to the Premium plan for extra premium features. If you want to connect with us reach out to our mail at [support@carbon.in](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDshJJXMGbGVZhjcTSMCRctKpSMdKhJXQmcCRcqHMMjgxHMVmDkrrggrmKMdpHnsjJWMph)!
+Installing Carbon is totally free of charge, with no hidden charges, Nothing! You can start with a basic plan to get started and later on upgrade to the Premium plan for extra premium features. If you want to connect with us reach out to our mail at [support@carbon.in](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDshJJXMGbGVZhjcTSMCRctKpSMdKhJXQmcCRcqHMMjgxHMVmDkrrggrmKMdpHnsjJWMph)
+
+
+![CARBON](https://user-images.githubusercontent.com/110216465/196434485-563d69df-aa4f-4cc8-8e71-562ef61eccd8.gif)
